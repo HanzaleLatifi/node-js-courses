@@ -1,0 +1,22 @@
+{
+  "name": "node_toturial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanzaleLatifi/node-js-courses.git"
+  },
+  "author": "hanzale latifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanzaleLatifi/node-js-courses/issues"
+  },
+  "homepage": "https://github.com/HanzaleLatifi/node-js-courses#readme",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
